@@ -1,7 +1,6 @@
 // 배열 확장 : list메소드 추가하기
 var f = function(element){
     console.log(">>>" + element);
-   
 }
 
 Array.prototype.insert = function(index, value){
